@@ -1,0 +1,6 @@
+{
+  "emailAddress": ["john12@hotmail.com", "liza12@hotmail.com","selena12@hotmail.com","nina23@hotmail.com","lucy12@hotmail.com"],
+  "firstName": ["John", "Liza", "Selena", "Nina","Lucy"],
+  "lastName": ["Hendrick", "David", "Michael", "Paul","Sefain"],
+  "address": ["B76E2", "C782327", "J232983", "F27637", "D82782"]
+}
